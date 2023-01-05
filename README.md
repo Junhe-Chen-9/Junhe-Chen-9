@@ -2,7 +2,7 @@
 I'm Junhe Chen [(JC)](https://bio.junhechen.com), a full stack software engineer. I am currently working on a subsonic client app buidling using ionic framework. Proven talent for aligning project objectives with established and emerging computer science paradigms to achieve maximum operational impacts with minimum resource expenditures. Growth-focused leader with expertise spanning technology solutions, project management, business operations optimization, application development, team leadership, and client relationship management. Exceptional student with keen interpersonal, communications, and application development expertise.
 
 # 🧑‍💻 My repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junhe-chen-9&repo=Foody&theme=highcontrast)](https://github.com/Junhe-Chen-9/Foody)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junhe-chen-9&repo=Foody&theme=highcontrast&show_icons=true)](https://github.com/Junhe-Chen-9/Foody)
 <!--
 **Junhe-Chen-9/Junhe-Chen-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
