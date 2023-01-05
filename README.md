@@ -8,6 +8,9 @@ I'm Junhe Chen [(JC)](https://bio.junhechen.com), a full stack software engineer
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junhe-chen-9&repo=Foody&theme=slateorange)](https://github.com/Junhe-Chen-9/Foody)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junhe-chen-9&repo=e-commerce-app-584&theme=slateorange)](https://github.com/Junhe-Chen-9/e-commerce-app-584)
+
+# 📊 My Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junhe-chen-9&theme=dark&count_private=true&theme=slateorange)](https://github.com/Junhe-Chen-9)
 <!--
 **Junhe-Chen-9/Junhe-Chen-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
