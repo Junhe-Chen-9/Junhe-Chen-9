@@ -2,7 +2,7 @@
 
 # 👋 Hi!
 
-I'm Junhe Chen [(JC)](https://bio.junhechen.com), a full stack software engineer. I am currently working on a subsonic client app buidling using ionic framework. Proven talent for aligning project objectives with established and emerging computer science paradigms to achieve maximum operational impacts with minimum resource expenditures. Growth-focused leader with expertise spanning technology solutions, project management, business operations optimization, application development, team leadership, and client relationship management. Exceptional student with keen interpersonal, communications, and application development expertise.
+I'm Junhe Chen [(JC)](https://bio.junhechen.com), a full stack software engineer. Proven talent for aligning project objectives with established and emerging computer science paradigms to achieve maximum operational impacts with minimum resource expenditures. Growth-focused leader with expertise spanning technology solutions, project management, business operations optimization, application development, team leadership, and client relationship management. Exceptional student with keen interpersonal, communications, and application development expertise.
 # 🔭 My top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhe-chen-9&theme=slateorange&layout=compact)](https://github.com/Junhe-Chen-9)
 
