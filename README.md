@@ -2,7 +2,7 @@
 
 # 👋 Hi!
 
-I'm Junhe Chen [(JC)](https://bio.junhechen.com), a Software Engineer specializing in AI agents, full-stack development, and scalable backend systems. Proven track record in orchestrating autonomous workflows, optimizing microservices, and leading high-impact AI initiatives.
+I'm Junhe Chen [(JC)](https://www.junhechen.com), a Software Engineer specializing in AI agents, full-stack development, and scalable backend systems. Proven track record in orchestrating autonomous workflows, optimizing microservices, and leading high-impact AI initiatives.
 
 
 <!--
